@@ -3,9 +3,9 @@ The aim of this project is to develop a machine learning model using the Random 
 
 ## 1.	Importing Libraries:
 
-* •	The code starts by importing necessary libraries like numpy, pandas, matplotlib, seaborn, and various functions from sklearn (Scikit-learn).
-* •	NumPy is used for efficient numerical operations on arrays and matrices, while Pandas facilitates data manipulation and analysis with its DataFrame structure. Matplotlib provides a wide range of plotting functions for creating static and interactive visualizations, and Seaborn, built on Matplotlib, offers a high-level interface for attractive statistical graphics. Additionally, the gridspec module from Matplotlib allows for flexible arrangement of subplots, enabling the creation of complex visual layouts. Together, these libraries form a powerful toolkit for data analysis and visualization in machine learning projects.
-* •	These libraries provide functionality for data manipulation, visualization, and machine learning.
+* The code starts by importing necessary libraries like numpy, pandas, matplotlib, seaborn, and various functions from sklearn (Scikit-learn).
+* NumPy is used for efficient numerical operations on arrays and matrices, while Pandas facilitates data manipulation and analysis with its DataFrame structure. Matplotlib provides a wide range of plotting functions for creating static and interactive visualizations, and Seaborn, built on Matplotlib, offers a high-level interface for attractive statistical graphics. Additionally, the gridspec module from Matplotlib allows for flexible arrangement of subplots, enabling the creation of complex visual layouts. Together, these libraries form a powerful toolkit for data analysis and visualization in machine learning projects.
+* These libraries provide functionality for data manipulation, visualization, and machine learning.
 
 ## 2.	Loading the Data:
 •	The dataset is loaded from a CSV file named "credit.csv" using pd.read_csv() from the pandas library.
